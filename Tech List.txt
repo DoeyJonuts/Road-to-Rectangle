@@ -1,0 +1,45 @@
+Ledge
+- Refresh
+- Ledgedash (with back)
+- Double lasers
+- Platform waveland/single laser
+- Regular get-up>backflip
+- Ledgehop bair timings
+- Shine stall>bair
+
+Platforms
+- Wavelands
+- Shield Drops
+
+OOS
+- Shine
+- Wavedash
+
+Recovery
+- Up-b angles
+- Side-b sweetspot
+- Shorten
+
+Shield Pressure
+- Late aerial
+	- Shine wavedash back
+	- Shinegrab
+	- Double/Triple/Westballz Shine
+	- Shine fadeaway nair
+- Laser>Grab
+- Spaced Bairs/Dairs
+
+Lasers
+- Low
+- High
+- Retreating
+- Approaching
+- Platform
+
+Punish
+- Fastfallers
+	- Running shine>dair>shine>dair>run crouch fsmash OR strong bair fsmash/dair
+	- RTC on the ground vs Fox
+- Midweights
+	- Pillars
+	- RTC on
