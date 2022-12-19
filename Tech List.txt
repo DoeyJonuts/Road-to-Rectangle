@@ -1,10 +1,8 @@
 Priorities
-- Dair turnaround uptilt
-- Slight DI
+- running shine turnaround wavedash back to edge/backflip to edge to the left
+- DI
 - Gimp defense
 - Fthrow fast get to edge
-- Laser Ftilt
-
 
 
 Ledge
