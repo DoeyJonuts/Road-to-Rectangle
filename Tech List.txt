@@ -1,8 +1,12 @@
 Priorities
-- running shine turnaround wavedash back to edge/backflip to edge to the left
-- DI
-- Gimp defense
-- Fthrow fast get to edge
+
+- Go to edge at a better timing during opponent's invincibility
+- Shield stop/backflip bairs turnaround jab
+- Punish Punish Punish
+- Ledgedash method: make sure to hit down and mod x at the same time first, visualize those buttons
+- RTC on plats
+
+
 
 
 Ledge
